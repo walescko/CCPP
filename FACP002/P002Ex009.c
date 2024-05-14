@@ -14,5 +14,5 @@ int main (void){
     } else {
         printf("%d\n", y);
     }
-
+    return 0;
 }
