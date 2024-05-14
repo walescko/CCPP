@@ -14,4 +14,6 @@ int main (void) {
 
     printf("\nQuantidade: ¢d \nTaxa: %d\nSalário: R$ %lf\n", qtd, tax, soldo);
 
+    return 0;
+
 }
