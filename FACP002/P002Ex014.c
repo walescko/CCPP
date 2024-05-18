@@ -5,7 +5,7 @@
 #include <math.h>
 int main (void){
 
-    double a, b, c, delta, x1, x2;
+    double a, b, c, delta;//, x1, x2;
 
     printf("Resolução do Equação do II Grau \n\n");
     printf("Termo quadrático (a): ");
@@ -14,6 +14,8 @@ int main (void){
     scanf("%lf", &b);
     printf("Termo independente (c): ");
     scanf("%lf", &c);
-    printf("\n\nEquação: %f x² + %f x + %f = 0", a, b, c);
+    printf("\n\nEquação: %f x² + %f x + %f = 0\n", a, b, c);
 
+    delta = - pow(b,2) - 4*a*c;
+    printf("%f", delta);
 }
