@@ -19,13 +19,12 @@ void dataRead (void) {
 
 void dataPrint (void){
 
-    if (delta < 0) {
-        printf("Não existe raízes reais!");
-    } if (delta == 0){
-        printf("Existe uma raiz real dupla: x = %f", x1);
-    } else {
+    if (delta >= 0){
         printf("Existe duas raízes reais distintas.\n");
         printf("x1 = %f.\n", x1);
         printf("x2 = %f.\n", x2);
+    } else {
+        printf("Não existe raízes reais!");
     }
+
 }
