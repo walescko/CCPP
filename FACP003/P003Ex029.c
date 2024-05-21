@@ -7,7 +7,7 @@
     int a = -896;
     signed char b;
 
-    printf("%d -> %hdd\n", a, b);
+    printf("%d -> %hhd\n", a, b);
 
     return 0;
 }
