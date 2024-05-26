@@ -4,7 +4,7 @@
 #include <stdio.h>
 int main(void){
     int a, b = 2;
-rot1: printf("Digite um inteiro, por favor: ");
+rot1: printf("Digite um inteiro: ");
     scanf("%d", &a);
 rot2:
 rot3:
