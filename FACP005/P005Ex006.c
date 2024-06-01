@@ -10,4 +10,5 @@ int main(void){
     }
     printf("%d\n", sal); //ERROR!
     return 0;
+
 }
