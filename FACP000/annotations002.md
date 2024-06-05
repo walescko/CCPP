@@ -6,4 +6,4 @@ Arquivos base - extensão\
 biblioteca-padrão - é o conjunto de bibliotecas que contêm as funções especificadas pelo padrão da linguagem.\
 Arquivos-cabeçalho padrão - são arquivos do sistema.\
 Arquivos-cabeçalho do usuário - são arquivos feitos pelo usuário.\
-Quando um arquivo-cabelhaçio é inserido se for  entre <> é do sistema se for entre aspas é arquivo feito pelo usuário. Os arquivos cabeçalho em C tem a terminação .h.\
+Quando um arquivo-cabelhaço é inserido se for  entre <> é do sistema se for entre aspas é arquivo feito pelo usuário. Os arquivos cabeçalho em C tem a terminação .h.\
