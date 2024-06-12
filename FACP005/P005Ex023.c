@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 int main (void){
-    int pi = 3, p2 = p1;
+    int pi = 3, p2 = pi;
     struct {
         char p1;
         int p2;
