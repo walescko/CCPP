@@ -18,8 +18,5 @@ int main (void){
         reg.p2 = p2;
 //tem um trecho de código aqui que não aparece no livro-texto
         return 0;
-    
-        
-    
 
 }
