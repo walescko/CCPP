@@ -13,5 +13,4 @@ int main(void){
     printf("%d %d %f\n", a , b ,c);
     printf("%f %f %f\n", d, e , f);
     return 0;
-
 }
