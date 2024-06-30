@@ -5,5 +5,5 @@ int main(void){
     b = a >> 3;
     c = a >> 6;
     printf("%d %d %d\n", a , b, c);
-    register 0;
+    return 0;
 }
