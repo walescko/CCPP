@@ -2,8 +2,11 @@
 int main(void){
     int num, val, taxa;
 
+    printf("Entre com um número inteiro: ");
     scanf("%d", &num);
+    printf("Entre com um valor inteiro: ");
     scanf("%d", &val);
+    printf("Entre com um valor de taxa inteiro: ");
     scanf("%d", &taxa);
 
     if (num > val){
