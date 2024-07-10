@@ -14,11 +14,10 @@ int main(void){
         printf(" 2 \n");
     } else {
         if (val > taxa) {
-            printf(" 3 \rn");
+            printf(" 3 \n");
         }
         printf(" 4 \n");
     }
     printf(" 5 \n");
 
     return 0;
-}
